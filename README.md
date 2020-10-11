@@ -5,7 +5,7 @@ Eg: 5
 Start Date is assumed as the next day. 
 For eg: If you are running the scheduler today, then it will start its first match from tomorrow.
 
-Scheduler's output: 
+##Scheduler's output: <br />
 Match: 1(Home) vs 2(Away), Schedule: 13-10-2020, Slot = 1<br />
 Match: 1(Home) vs 3(Away), Schedule: 15-10-2020, Slot = 1<br />
 Match: 1(Home) vs 4(Away), Schedule: 17-10-2020, Slot = 1<br />
